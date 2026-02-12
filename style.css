@@ -1,0 +1,27 @@
+body {
+    background:#111;
+    color:white;
+    font-family:monospace;
+    text-align:center;
+}
+
+#game {
+    width:500px;
+    margin:auto;
+    margin-top:60px;
+}
+
+#emailBox {
+    background:#222;
+    padding:20px;
+    min-height:150px;
+    margin:20px;
+    border-radius:10px;
+}
+
+button {
+    padding:12px 20px;
+    margin:10px;
+    font-size:18px;
+    cursor:pointer;
+}
